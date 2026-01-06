@@ -1,8 +1,8 @@
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
-# 🎓 IoT-Based Smart Note-Taking System
+# 🎓 Indic-Edge-Scribe: A Localized AI-Driven Note-Taking System for Indian English Accents
 
-### *Edge-AI for Automated Lecture Transcription & Abstractive Summarization*
+### *Accent-Tuned Edge-AI for Automated Transcription & Summarization*
 
 **Publication Status:** `Conference Paper Accepted (IEEE Elexcom 2025)`
 
