@@ -110,7 +110,7 @@ Full evaluation metrics and methodology available in the accompanying documentat
 * **Lead Architect & Developer:** [Omsubhra Singha](https://www.linkedin.com/in/omsubhra-singha-30447a254/) — responsible for system engineering, full-stack implementation, and hardware-software integration.
 
 
-* **Research & Strategic Planning:** [Dr. Wanbanker Khongbuh](https://scholar.google.com/citations?user=MAg8y58AAAAJ&hl=en) — provided the foundational conceptual framework and academic direction for the project.
+* **Research & Strategic Planning:** [Dr. Wanbanker Khongbuh](https://scholar.google.com/citations?user=MAg8y58AAAAJ&hl=en) — provided the foundational conceptual framework and [Dr. Preetisudha Meher](https://scholar.google.com/citations?user=7LM3IXgAAAAJ&hl=en) provided the academic direction for the project.
 
 
 * **Model Optimization & Logic Design:** Aman Kumar — provided technical support in fine-tuning the Whisper model and enhancing system logic flow.
